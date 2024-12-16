@@ -16,16 +16,3 @@ The molecular structure is able to obtain from 'Compound Name(s)'.
 
 [AromaDb]{https://bioinfo.cimap.res.in/aromadb/web_essential_oil.php}
 
-## Future task; output target of DNN
-
-Sensory evaluation of essential oils: While prediction of odor character may be of interest, there is currently no database available in sensory evaluation of essential oil. 
-The availablity of sensory evaluation differs from the task on a task of single odorant, 
-for which some databases are available to study the predictability of sensory evaluation. 
-In this research, we did not forecast the odor type of essential oils using our architecture. 
-If any database with odor type information is available, we will evaluate the predictability on our architecture.
-
-The scientific name and/or varieties of the plant: The scientific name can be obtained via the web link of the entry "Detail" in the essential oil property table. 
-However, they were unsuitable for learning and verification due to their diversity.
-We attempted to compare plant varieties in the essential oil property table using the POWO database, 
-but were unable to do so due to inconsistencies in the scientific names and lack of IDs.
-
