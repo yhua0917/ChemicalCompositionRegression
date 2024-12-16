@@ -14,5 +14,7 @@ we can obtain the analytical table including 'Compound Name(s)' and 'Compound Pe
 The area% of gas chromatography (GC) is denoted as 'Compound Percentage(%)' in the analytical table. 
 The molecular structure is able to obtain from 'Compound Name(s)'. 
 
-[AromaDb]{https://bioinfo.cimap.res.in/aromadb/web_essential_oil.php}
+[Essential_oil @ AromaDb](https://bioinfo.cimap.res.in/aromadb/web_essential_oil.php "bioinfo.cimap.res.in")
+[AromaDb: A Database of Medicinal and Aromatic Plant’s Aroma Molecules With Phytochemistry and Therapeutic Potentials](https://www.frontiersin.org/articles/10.3389/fpls.2018.01081/full "Frontiers | AromaDb: A Database of Medicinal and Aromatic Plant’s Aroma Molecules With Phytochemistry and Therapeutic Potentials | Plant Science")
+
 
