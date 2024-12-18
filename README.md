@@ -16,6 +16,7 @@ The molecular structure is able to obtain from 'Compound Name(s)'.
 
 ## Realated links 
 
+- [arXiv > cs > arXiv:2412.12936](https://arxiv.org/abs/2412.12936)
 - [Essential_oil @ AromaDb](https://bioinfo.cimap.res.in/aromadb/web_essential_oil.php "bioinfo.cimap.res.in")
 - [AromaDb: A Database of Medicinal and Aromatic Plant’s Aroma Molecules With Phytochemistry and Therapeutic Potentials](https://www.frontiersin.org/articles/10.3389/fpls.2018.01081/full "Frontiers | AromaDb: A Database of Medicinal and Aromatic Plant’s Aroma Molecules With Phytochemistry and Therapeutic Potentials | Plant Science")
 
